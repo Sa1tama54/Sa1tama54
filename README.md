@@ -1,16 +1,15 @@
-## Hi there 👋
+# Frontend developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" height="100" alt="Angular" align="center" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="36" height="36" align="center" />
 
-<!--
-**Sa1tama54/Sa1tama54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![codewars](https://www.codewars.com/users/Sa1tama54/badges/large)](https://www.codewars.com/users/Sa1tama54) -->
 
-Here are some ideas to get you started:
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sa1tama54&theme=shades_of_purple" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sa1tama54&theme=shades_of_purple" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sa1tama54&theme=shades_of_purple" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+## Связь со мной: 
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/sa1tama54)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:)
