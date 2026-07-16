@@ -10,20 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.TOKEN }}
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: "Sa1tama54"
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          PUSH_BRANCH_NAME: "github-profile-summary-cards-output"
-          COMMIT: "false"
+        continue-on-error: true
 
-      - name: Push cards
+      - name: Push to output branch
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
+          git fetch origin github-profile-summary-cards-output 2>/dev/null || true
+          git add profile-summary-card-output/ -f 2>/dev/null || true
+          git stash 2>/dev/null || true
+          git checkout -B github-profile-summary-cards-output
+          git stash pop 2>/dev/null || true
           git add -A
-          git diff --staged --quiet || git commit -m "Update profile summary cards"
-          git push https://x-access-token:${{ secrets.TOKEN }}@github.com/Sa1tama54/Sa1tama54.git HEAD:github-profile-summary-cards-output --force
+          git commit -m "Update profile summary cards" || echo "Nothing to commit"
+          git push https://x-access-token:${{ secrets.TOKEN }}@github.com/Sa1tama54/Sa1tama54.git github-profile-summary-cards-output --force
