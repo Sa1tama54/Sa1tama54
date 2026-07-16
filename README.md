@@ -11,7 +11,7 @@
 <div id="stat" align="center">
     <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/shades_of_purple/0-profile-details.svg" alt=""/>
     <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg" alt=""/>
-    <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/shades_of_purple/4-stats.svg" alt=""/>
+    <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/shades_of_purple/3-stats.svg" alt=""/>
 </div>
 
 ***
