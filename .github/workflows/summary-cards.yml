@@ -13,13 +13,17 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
 
-      - name: Configure git
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/Sa1tama54/Sa1tama54.git
-
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: "Sa1tama54"
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          PUSH_BRANCH_NAME: "github-profile-summary-cards-output"
+          COMMIT: "false"
+
+      - name: Push cards
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update profile summary cards"
+          git push https://x-access-token:${{ secrets.TOKEN }}@github.com/Sa1tama54/Sa1tama54.git HEAD:github-profile-summary-cards-output --force
