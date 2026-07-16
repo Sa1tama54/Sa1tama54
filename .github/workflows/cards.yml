@@ -21,4 +21,4 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: "Sa1tama54"
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
