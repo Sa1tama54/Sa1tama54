@@ -14,21 +14,11 @@ jobs:
           token: ${{ secrets.TOKEN }}
           fetch-depth: 0
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Set git remote with token
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/Sa1tama54/Sa1tama54.git
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          node-version: '20'
-
-      - name: Install and generate cards
-        env:
+          USERNAME: "Sa1tama54"
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        run: |
-          npx github-profile-summary-cards Sa1tama54
-
-      - name: Push cards
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add profile-summary-card-output/ -f
-          git commit -m "Update profile summary cards" || echo "Nothing to commit"
-          git push origin HEAD:main
