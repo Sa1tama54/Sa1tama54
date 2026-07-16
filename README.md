@@ -2,10 +2,16 @@
 
 <!-- [![codewars](https://www.codewars.com/users/Sa1tama54/badges/large)](https://www.codewars.com/users/Sa1tama54) -->
 
-<div id="stat" align="center">
+<!-- <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sa1tama54&theme=shades_of_purple" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sa1tama54&theme=shades_of_purple" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sa1tama54&theme=shades_of_purple" alt=""/>
+</div> -->
+
+<div id="stat" align="center">
+    <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/github-profile-summary-cards-output/profile-summary-card-output/shades_of_purple/0-profile-details.svg" alt=""/>
+    <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/github-profile-summary-cards-output/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg" alt=""/>
+    <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/github-profile-summary-cards-output/profile-summary-card-output/shades_of_purple/4-stats.svg" alt=""/>
 </div>
 
 ***
