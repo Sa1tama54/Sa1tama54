@@ -8,13 +8,11 @@
 <tr>
 <td width="55%" valign="top">
 
-I build for the browser, but I think in systems. The part that interests me
-isn't making something appear on a screen — it's the invisible scaffolding
-underneath that keeps it fast, predictable, and easy to change six months later.
+I build for the browser, but I think in systems — the invisible scaffolding
+that keeps things fast, predictable, and easy to change six months later.
 
-I like problems without an obvious answer, interfaces that get out of the user's
-way, and code the next person can read without a map. When something finally
-clicks into place and just *works* — that's the whole reason I do this.
+I like interfaces that get out of the user's way and code the next person can
+read without a map.
 
 </td>
 <td width="45%" valign="top">
@@ -22,8 +20,7 @@ clicks into place and just *works* — that's the whole reason I do this.
 ```typescript
 const developer = {
   code: 'Clean · Scalable · Maintainable',
-  believes: 'Simplicity is the ultimate sophistication',
-  approach: 'Measure twice, refactor once',
+  believes: 'Simplicity is sophistication',
   fuel: 'Coffee and stubbornness ☕',
 };
 ```
@@ -55,29 +52,28 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="200" />
-  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" height="200" />
-  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Contributions" height="200" />
+  <img src="https://github-readme-stats-nine-gray-20.vercel.app/api?username=Sa1tama54&show_icons=true&include_all_commits=true&count_private=true&title_color=E5484D&icon_color=E5484D&text_color=C9D1D9&bg_color=0D1117&border_color=E5484D&border_radius=10&hide_rank=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sa1tama54&hide_border=true&background=0D1117&stroke=E5484D&ring=E5484D&fire=E5484D&currStreakNum=C9D1D9&currStreakLabel=E5484D&sideNums=C9D1D9&sideLabels=E5484D&dates=8B949E&border_radius=10" height="165" alt="Streak" />
+  <img src="https://github-readme-stats-nine-gray-20.vercel.app/api/top-langs/?username=Sa1tama54&layout=donut&count_private=true&title_color=E5484D&text_color=C9D1D9&bg_color=0D1117&border_color=E5484D&border_radius=10" height="165" alt="Top Languages" />
 </div>
 
 ---
-
 
 <!-- ## 📌 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Sa1tama54/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_1&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_1" />
+    <img src="https://github-readme-stats-nine-gray-20.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_1&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_1" />
   </a>
   <a href="https://github.com/Sa1tama54/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_2&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_2" />
+    <img src="https://github-readme-stats-nine-gray-20.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_2&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_2" />
   </a>
   <br/>
   <a href="https://github.com/Sa1tama54/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_3&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_3" />
+    <img src="https://github-readme-stats-nine-gray-20.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_3&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_3" />
   </a>
   <a href="https://github.com/Sa1tama54/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_4&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_4" />
+    <img src="https://github-readme-stats-nine-gray-20.vercel.app/api/pin/?username=Sa1tama54&repo=REPO_4&title_color=E5484D&text_color=C9D1D9&icon_color=E5484D&bg_color=0D1117&border_color=E5484D&border_radius=10" alt="REPO_4" />
   </a>
 </div>
 
@@ -85,7 +81,7 @@ const developer = {
 
 ## 📫 Connect
 
-<p align="center">
+<p>
   <a href="https://t.me/sa1tama54"><img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=E5484D" alt="Telegram" /></a>
   <a href="https://api.whatsapp.com/send/?phone="><img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=E5484D" alt="WhatsApp" /></a>
   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=E5484D" alt="Gmail" /></a>
