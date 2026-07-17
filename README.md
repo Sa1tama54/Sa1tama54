@@ -52,9 +52,14 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-gray-20.vercel.app/api?username=Sa1tama54&show_icons=true&include_all_commits=true&count_private=true&title_color=E5484D&icon_color=E5484D&text_color=C9D1D9&bg_color=0D1117&border_color=E5484D&border_radius=10&hide_rank=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Sa1tama54&hide_border=true&background=0D1117&stroke=E5484D&ring=E5484D&fire=E5484D&currStreakNum=C9D1D9&currStreakLabel=E5484D&sideNums=C9D1D9&sideLabels=E5484D&dates=8B949E&border_radius=10" height="165" alt="Streak" />
-  <img src="https://github-readme-stats-nine-gray-20.vercel.app/api/top-langs/?username=Sa1tama54&layout=donut&count_private=true&title_color=E5484D&text_color=C9D1D9&bg_color=0D1117&border_color=E5484D&border_radius=10" height="165" alt="Top Languages" />
+
+  <img src="https://github-readme-stats-nine-gray-20.vercel.app/api?username=Sa1tama54&show_icons=true&include_all_commits=true&count_private=true&title_color=E5484D&icon_color=E5484D&text_color=C9D1D9&bg_color=0D1117&border_color=E5484D&border_radius=10" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-nine-gray-20.vercel.app/api/top-langs/?username=Sa1tama54&layout=donut&count_private=true&title_color=E5484D&text_color=C9D1D9&bg_color=0D1117&border_color=E5484D&border_radius=10" height="180" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=Sa1tama54&hide_border=true&background=0D1117&stroke=E5484D&ring=E5484D&fire=E5484D&currStreakNum=C9D1D9&currStreakLabel=E5484D&sideNums=C9D1D9&sideLabels=E5484D&dates=8B949E&border_radius=10" width="70%" alt="Streak" />
+
 </div>
 
 ---
