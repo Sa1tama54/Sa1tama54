@@ -38,18 +38,15 @@ const developer = {
 
 <table align="center">
 <tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="42" height="42" alt="Angular" /><br><sub><b>Angular</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="42" height="42" alt="RxJS" /><br><sub><b>RxJS</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" /><br><sub><b>Tailwind</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="42" height="42" alt="Sass" /><br><sub><b>Sass</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br><sub><b>Git</b></sub></td>
-<td align="center" width="90"></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="44" height="44" alt="Angular" /><br><sub><b>Angular</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="44" height="44" alt="RxJS" /><br><sub><b>RxJS</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" /><br><sub><b>Tailwind</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="44" height="44" alt="Sass" /><br><sub><b>Sass</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br><sub><b>Git</b></sub></td>
 </tr>
 </table>
 
@@ -58,10 +55,9 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile details" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top languages" />
-  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/2077/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="200" />
+  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" height="200" />
+  <img src="https://raw.githubusercontent.com/Sa1tama54/Sa1tama54/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Contributions" height="200" />
 </div>
 
 ---
